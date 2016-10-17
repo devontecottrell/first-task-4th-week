@@ -1,2 +1,6 @@
-# first-task-4th-week
-4 week 
+ 
+my_int = 6
+
+my_int += 3
+
+print(my_int)
